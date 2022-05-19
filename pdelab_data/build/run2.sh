@@ -1,0 +1,10 @@
+source ./run.sh 30 30 100
+source ./run.sh 50 50 100
+source ./run.sh 100 100 100
+source ./run.sh 150 150 100
+source ./run.sh 200 200 100
+source ./run.sh 30 30 200
+source ./run.sh 50 50 200
+source ./run.sh 100 100 200
+source ./run.sh 150 150 200
+source ./run.sh 200 200 200
